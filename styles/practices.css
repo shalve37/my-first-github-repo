@@ -1,0 +1,78 @@
+/* * {
+    background-image: url(checkerboard-gradient.jpg);
+    background-size: cover;
+    background-repeat: repeat-x;
+} */
+
+
+h1 {
+    margin: 50px;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px 3px black;
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(182, 74, 23);
+    border: 8px solid rgb(235, 31, 31);
+    border-radius: 15px;
+    background-image: url(2023-3d-cubes-on-hexagonal-grid-tessellated-pattern-no-div-pure-css.png);
+    background-position: center;
+    /* visibility: hidden; */
+
+
+}
+
+
+.firstclass {
+    margin: 30px;
+    border: 10px solid yellow;
+    border-radius: 15px;
+    padding: 10px;
+    background-size: 4800px;
+    background-color: rgb(99, 199, 230);
+
+    font-size: larger;
+    font-weight: 700;
+    font-style: italic;
+    box-shadow: 10px 10px 10px;
+}
+
+.secondclass {
+    margin-left: 30px;
+}
+
+#firstid {
+    margin-left: 30px;
+    font-size: xx-large;
+    font-weight: 900;
+    background-size: 1200px;
+}
+
+#secondid {
+    font-size: 50px;
+    font-weight: 900;
+    color: coral;
+}
+
+#thirdid {
+    font-size: 50px;
+    font-weight: 900;
+    color: rgb(80, 83, 255);
+}
+
+#fourthid {
+    font-size: 50px;
+    font-weight: 900;
+    color: rgb(116, 18, 47);
+}
+
+.thirdclass {
+    text-align: center;
+}
+
+#fifthid {
+    font-size: 75px;
+    color: crimson;
+    margin: 100px;
+    border-radius: 10px;
+
+}
